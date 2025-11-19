@@ -36,6 +36,6 @@ jobs:
         env:
           # Set your due date/time here (ISO 8601, UTC).
           # Example: 2025-11-30 23:59:59 UTC
-          LAB_DUE_DATE: "2025-11-18T20:59:59Z"
+          LAB_DUE_DATE: "2025-11-21T21:59:59Z"
         run: |
           node script/grade.cjs
